@@ -71,3 +71,12 @@ test-credentials.local.properties
 
 # Archive (internal development docs)
 ARCHIVE/
+
+# Claude Code
+.claude/
+CLAUDE_RESUME.md
+CLAUDE.md
+*.claude.md
+
+# Test plan (development artifact)
+TEST_PLAN.md
